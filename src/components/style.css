@@ -1,0 +1,35 @@
+.Landing-Page {
+    padding-top: 50px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;;
+}
+
+.Box-Shadow {
+    box-shadow:
+        1.6px 1.4px 2px rgba(0, 0, 0, 0.048),
+        3.6px 3.2px 4.5px rgba(0, 0, 0, 0.071),
+        6px 5.3px 7.5px rgba(0, 0, 0, 0.088),
+        9px 8.1px 11.3px rgba(0, 0, 0, 0.102),
+        13px 11.6px 16.3px rgba(0, 0, 0, 0.115),
+        18.4px 16.5px 23px rgba(0, 0, 0, 0.128),
+        26.1px 23.4px 32.7px rgba(0, 0, 0, 0.142),
+        38px 33.9px 47.5px rgba(0, 0, 0, 0.159),
+        58.5px 52.3px 73.1px rgba(0, 0, 0, 0.182),
+        104px 93px 130px rgba(0, 0, 0, 0.23)
+        ;
+    
+    margin-left: 15px;
+    margin-right: 15px;;
+}
+
+.Box-Shadow:hover{
+    box-shadow: 0 20px 30px #ff8a4243;
+    border: 0.5px solid #ff8a42;
+}
+
+h1{
+    text-align: center;
+    color: #ff8a42;
+}
