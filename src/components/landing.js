@@ -61,7 +61,7 @@ export default function RecipeReviewCard() {
                         title="Alex-Brown"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Alex}
@@ -135,7 +135,7 @@ export default function RecipeReviewCard() {
                         title="Habib-Ok"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Habib}
@@ -209,7 +209,7 @@ export default function RecipeReviewCard() {
                         title="Inception"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Incp}
@@ -283,7 +283,7 @@ export default function RecipeReviewCard() {
                         title="Medium"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Med}
@@ -357,7 +357,7 @@ export default function RecipeReviewCard() {
                         title="World War"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Movies}
@@ -434,7 +434,7 @@ export default function RecipeReviewCard() {
                         title="Popeye"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Pop}
@@ -508,7 +508,7 @@ export default function RecipeReviewCard() {
                         title="Morbius"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Morb}
@@ -582,7 +582,7 @@ export default function RecipeReviewCard() {
                         title="Thor"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Thor}
@@ -656,7 +656,7 @@ export default function RecipeReviewCard() {
                         title="Doctor Strange"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Doc}
@@ -729,7 +729,7 @@ export default function RecipeReviewCard() {
                         title="World War"
                         subheader="September 14, 2016"
                     />
-                    <CardMedia
+                    <CardMedia className="Image"
                         component="img"
                         height="194"
                         image={Movies}
