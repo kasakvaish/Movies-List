@@ -2,8 +2,10 @@
     padding-top: 50px;
     position: relative;
     display: flex;
-    justify-content: space-between;
-    padding-bottom: 50px;;
+    justify-content: center;
+    padding-bottom: 50px;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .Box-Shadow {
@@ -19,14 +21,21 @@
         58.5px 52.3px 73.1px rgba(0, 0, 0, 0.182),
         104px 93px 130px rgba(0, 0, 0, 0.23)
         ;
-    
-    margin-left: 15px;
-    margin-right: 15px;;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
 }
 
 .Box-Shadow:hover{
     box-shadow: 0 20px 30px #ff8a4243;
     border: 0.5px solid #ff8a42;
+}
+
+.Image {
+    height: 400px;
+    width: 300px;
 }
 
 h1{
